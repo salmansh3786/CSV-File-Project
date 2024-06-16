@@ -24,5 +24,5 @@ This project is a Django application that allows users to upload CSV files and p
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/your-username/csv-analysis.git
-   cd csv-analysis
+   git clone https://github.com/salmansh3786/CSV-File-Project
+   cd csvproj
